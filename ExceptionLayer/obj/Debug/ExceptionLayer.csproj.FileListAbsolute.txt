@@ -1,0 +1,6 @@
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\obj\Debug\ExceptionLayer.csprojAssemblyReference.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\obj\Debug\ExceptionLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\ExceptionLayer\obj\Debug\ExceptionLayer.pdb

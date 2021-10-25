@@ -1,0 +1,9 @@
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI.Tests\bin\Debug\EmployeesAPI.Tests.dll.config
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI.Tests\bin\Debug\EmployeesAPI.Tests.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI.Tests\Debug\EmployeesAPI.Tests.csproj.CoreCompileInputs.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI.Tests\Debug\EmployeesAPI.Tests.csproj.CopyComplete
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI.Tests\Debug\EmployeesAPI.Tests.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI.Tests\Debug\EmployeesAPI.Tests.csprojAssemblyReference.cache

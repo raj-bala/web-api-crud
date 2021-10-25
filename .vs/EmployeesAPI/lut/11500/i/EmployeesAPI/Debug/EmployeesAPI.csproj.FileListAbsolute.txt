@@ -1,0 +1,6 @@
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI\bin\EmployeesAPI.dll.config
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\EmployeesAPI\bin\EmployeesAPI.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI\Debug\EmployeesAPI.csproj.CoreCompileInputs.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI\Debug\EmployeesAPI.csproj.CopyComplete
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI\Debug\EmployeesAPI.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\EmployeesAPI\Debug\EmployeesAPI.csprojAssemblyReference.cache

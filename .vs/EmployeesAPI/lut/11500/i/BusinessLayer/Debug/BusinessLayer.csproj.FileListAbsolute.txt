@@ -1,0 +1,5 @@
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\BusinessLayer\Debug\BusinessLayer.csprojAssemblyReference.cache

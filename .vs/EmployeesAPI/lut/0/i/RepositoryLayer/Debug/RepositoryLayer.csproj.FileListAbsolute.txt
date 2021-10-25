@@ -1,0 +1,6 @@
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\RepositoryLayer\bin\Debug\RepositoryLayer.dll.config
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\b\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\RepositoryLayer\Debug\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\RepositoryLayer\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\RepositoryLayer\Debug\RepositoryLayer.csproj.CopyComplete
+C:\Users\M1053679\source\repos\EmployeesAPI\.vs\EmployeesAPI\lut\0\i\RepositoryLayer\Debug\RepositoryLayer.dll
